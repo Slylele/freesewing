@@ -1,6 +1,6 @@
 shoulderDart:
   title: Shoulder dart
-  description: Whether or not to inlude a dart at the shoulder to round the back
+  description: Whether or not to include a dart at the shoulder to round the back
 shoulderDartSize:
   title: Shoulder dart size
   description: The size of the shoulder dart
@@ -9,7 +9,7 @@ shoulderDartLength:
   description: The length of the shoulder dart
 waistDart:
   title: Waist dart
-  description: Whether or not to inlude a dart at the waist to round the back
+  description: Whether or not to include a dart at the waist to round the back
 waistDartSize:
   title: Waist dart size
   description: The size of the waist dart
